@@ -1,0 +1,22 @@
+#especial
+{color: #ff0000}
+
+.azulito
+{color: #80d8ff;
+background-color: rgba(0,200,0,5);
+border-width: 5px}
+
+h1
+{color: rgba(0,200,0,.5);
+background: #ff0000;
+background-color:#0000ff;
+border-color: }
+
+h2
+{color: rgba(0,0,200,1);
+border-style: dashed;}
+
+body
+{background: url(imagenes/fondo.jpg);
+background-repeat: no-repeat; /*No repetir la imagen*/
+background-size: cover; }/*Ajustar a la pantalla*/
