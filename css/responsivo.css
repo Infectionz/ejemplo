@@ -1,0 +1,20 @@
+header
+{
+	background-color: #004d40
+}
+
+.blanco
+{
+	color: white;
+}
+
+.negro
+{
+	color: black;
+}
+
+.color
+{
+	background-color: #ff0000;
+	border-style: double;
+}
