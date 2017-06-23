@@ -10,11 +10,14 @@ header
 
 .negro
 {
-	color: black;
+	background-color: #000000;
 }
 
 .color
 {
 	background-color: #ff0000;
-	border-style: double;
+	/*border-style: double;*/
+	border-width: 5px;
+	border-style: solid;
+
 }
